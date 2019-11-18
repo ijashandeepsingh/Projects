@@ -1,7 +1,8 @@
 """ 
 Prequisites required: selenium library installed in python root. 
 This is a Instagram focused search py script that takes a notification and a search index. This script can also be modified for
-searching various elements on other various platforms. (Tested over twitter)."""
+searching various elements on other various platforms. (Tested over twitter).
+"""
 
 
 
