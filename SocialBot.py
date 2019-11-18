@@ -52,9 +52,9 @@ class SocialBot:
 
 """****"""
 
-u = input("Enter the registered E-mail: ")
-p = getpass.getpass()
-h = input("Enter the term to search:")
-obj = SocialBot(u, p)
+mail = input("Enter the registered E-mail: ")
+pass = getpass.getpass()
+search = input("Enter the term to search:")
+obj = SocialBot(mail, pass)
 obj.login()
-obj.search_instagram(hashtag=h)
+obj.search_instagram(hashtag=search)
