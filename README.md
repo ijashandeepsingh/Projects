@@ -1,2 +1,2 @@
-# public
+# projects
 /* public view repo */
